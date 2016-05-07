@@ -11,3 +11,15 @@
  *= require_self
  *= require_tree .
  */
+.header{
+	width:100%;
+}
+.logo{
+	float: left;
+}
+.name{
+	float: left;
+}
+nav > a{
+	color: white;
+}
